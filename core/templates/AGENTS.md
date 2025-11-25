@@ -35,7 +35,7 @@ personal-os/
 ├── Resources/               # Context materials for AI
 ├── BACKLOG.md              # Unstructured notes/ideas to process
 ├── GOALS.md                # Your goals & strategic priorities
-└── CLAUDE.md               # This file - AI agent instructions
+└── AGENTS.md               # This file - AI agent instructions
 ```
 
 ### Directory Details:

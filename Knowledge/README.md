@@ -28,4 +28,4 @@ resource_refs:
   - Knowledge/meeting-notes-2024-01-15.md
 ```
 
-See [`examples/example_knowledge.md`](../examples/example_knowledge.md) for a template.
+See [`examples/example_files/example_knowledge.md`](../examples/example_files/example_knowledge.md) for a template.

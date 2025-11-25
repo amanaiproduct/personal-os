@@ -32,13 +32,18 @@ venv/
 env/
 .env
 
-# IDE
+# IDE & Editor configs
 .vscode/
 .idea/
+.obsidian/
 *.swp
 *.swo
 *~
 .DS_Store
+
+# Tool-specific
+.specstory/
+.factory/
 
 # Logs
 *.log

@@ -20,4 +20,4 @@ Your personal task files live here. Each task is a markdown file with YAML front
 
 Tasks are created automatically when you say "process my backlog" to your AI assistant.
 
-You can also create them manually—see [`examples/example_task.md`](../examples/example_task.md) for the full template.
+You can also create them manually—see [`examples/example_files/example_task.md`](../examples/example_files/example_task.md) for the full template.

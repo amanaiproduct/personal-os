@@ -7,11 +7,11 @@ Tasks/*.md
 BACKLOG.md
 
 # Personal configuration
-CLAUDE.md       # If customized from template
+AGENTS.md       # If customized from template
 GOALS.md        # Personal goals
 
 # Keep templates and examples
-!CLAUDE_TEMPLATE.md
+!AGENTS_TEMPLATE.md
 !Tasks/example.md
 
 # Python

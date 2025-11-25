@@ -87,11 +87,11 @@ done
 # Copy template files
 print_header "Setting Up Templates"
 
-if [ ! -f "CLAUDE.md" ] && [ -f "core/templates/CLAUDE.md" ]; then
-    cp "core/templates/CLAUDE.md" "CLAUDE.md"
-    print_success "Copied: CLAUDE.md"
+if [ ! -f "AGENTS.md" ] && [ -f "core/templates/AGENTS.md" ]; then
+    cp "core/templates/AGENTS.md" "AGENTS.md"
+    print_success "Copied: AGENTS.md"
 else
-    print_info "File exists: CLAUDE.md (preserving your version)"
+    print_info "File exists: AGENTS.md (preserving your version)"
 fi
 
 if [ ! -f ".gitignore" ] && [ -f "core/templates/gitignore" ]; then
@@ -277,9 +277,9 @@ echo ""
 echo "📋 Next Steps:"
 echo ""
 echo "1. Review GOALS.md and refine as needed"
-echo "2. Read CLAUDE.md to understand how your AI agent works"
+echo "2. Read AGENTS.md to understand how your AI agent works"
 echo "3. Start adding tasks or notes to BACKLOG.md"
-echo "4. Tell your AI: 'Read CLAUDE.md and help me process my backlog'"
+echo "4. Tell your AI: 'Read AGENTS.md and help me process my backlog'"
 echo ""
 print_success "Happy organizing!"
 echo ""

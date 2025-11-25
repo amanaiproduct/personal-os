@@ -63,9 +63,26 @@ Tie to goals and reference material.
 - **outreach**: communicate, meet
 - **research**: learn, analyze
 - **writing**: draft, document
+- **content**: blog posts, social media, public writing
 - **admin**: operations, finance, logistics
 - **personal**: health, routines
 - **other**: everything else
+
+## Specialized Workflows
+
+For complex tasks, delegate to workflow files in `examples/workflows/`. Read the workflow file and follow its instructions.
+
+| Trigger | Workflow File | When to Use |
+|---------|---------------|-------------|
+| Content generation, writing in user's voice | `examples/workflows/content-generation.md` | Any writing, marketing, or content task |
+| Morning planning | `examples/workflows/morning-standup.md` | "What should I work on today?" |
+| Processing backlog | `examples/workflows/backlog-processing.md` | Reference for backlog flow |
+| Weekly reflection | `examples/workflows/weekly-review.md` | Weekly review prompts |
+
+**How to use workflows:**
+1. When a task matches a trigger, read the corresponding workflow file
+2. Follow the workflow's step-by-step instructions
+3. The workflow may reference files in `Knowledge/` for context (e.g., voice samples)
 
 ## Helpful Prompts to Encourage
 - "Clear my backlog"
